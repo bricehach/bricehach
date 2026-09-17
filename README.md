@@ -8,7 +8,7 @@ J'ai ensuite volontairement approfondi le développement afin de mieux comprendr
 
 Aujourd'hui, mon orientation est clairement centrée sur la **cybersécurité opérationnelle**, le **SOC**, le **DFIR**, le **hardening** et l'**automatisation**. Cette évolution est aujourd'hui structurée par ma formation de **Conseiller en cybersécurité à l'IFAPME de Charleroi**.
 
-> **Comprendre comment un système ou une application fonctionne est, pour moi, une étape essentielle avant de pouvoir correctement le protéger, l'analyser et le sécuriser.**
+> **Comprendre comment un système, un réseau ou une application fonctionne est, pour moi, une étape essentielle avant de pouvoir correctement le protéger, le surveiller, l'analyser et l'investiguer.**
 
 ---
 
@@ -23,6 +23,46 @@ Aujourd'hui, mon orientation est clairement centrée sur la **cybersécurité op
 | PowerShell | Wireshark | Velociraptor |
 | Hardening | Nmap | Timeline & investigation |
 | Troubleshooting | Détection / supervision | Corrélation d'événements |
+
+Ces trois domaines constituent mon **positionnement principal**. Les autres compétences — réseau, Cisco, Linux, développement, automatisation et IA — sont utilisées comme des **fondations et des leviers** pour renforcer cette orientation cybersécurité.
+
+---
+
+## Ma démarche cybersécurité
+
+Je ne cherche pas à accumuler des technologies ou des outils. Ma démarche consiste à construire une compréhension progressive du système d'information afin de pouvoir ensuite le protéger et l'analyser avec méthode.
+
+```text
+Comprendre les systèmes
+        ↓
+Windows / Linux
+        ↓
+Comprendre les communications
+        ↓
+Réseaux / Cisco / VLAN / Routage / pfSense
+        ↓
+Comprendre les traces et les comportements
+        ↓
+Logs / Sysmon / Wireshark / Télémétrie
+        ↓
+Détecter
+        ↓
+SOC / Wazuh / Sigma / Defender
+        ↓
+Investiguer
+        ↓
+DFIR / EVTX / Hayabusa / Chainsaw / Velociraptor
+        ↓
+Automatiser
+        ↓
+PowerShell / Python / Bash
+        ↓
+Augmenter les capacités d'analyse
+        ↓
+IA appliquée à l'IT et à la cybersécurité
+```
+
+Le fil conducteur reste le même : **comprendre avant de protéger, observer avant de conclure, vérifier avant d'automatiser**.
 
 ---
 
@@ -41,6 +81,8 @@ Sécurité des systèmes et des applications
       ↓
 Formation IFAPME — Conseiller en cybersécurité
       ↓
+Réseaux & Linux comme fondations cyber
+      ↓
 Cybersécurité / SOC / Détection
       ↓
 DFIR / Analyse de logs
@@ -49,6 +91,8 @@ Automatisation & IA appliquée à l'IT
 ```
 
 La programmation fait partie de mon bagage technique, mais **elle n'est pas mon objectif professionnel principal**. Elle m'aide à comprendre les systèmes, à automatiser certaines tâches et à mieux analyser les risques techniques.
+
+De la même manière, **Cisco et Linux ne constituent pas des finalités séparées** : ils font partie des connaissances nécessaires pour comprendre les environnements que l'on doit sécuriser, surveiller et investiguer.
 
 ---
 
@@ -59,7 +103,8 @@ La programmation fait partie de mon bagage technique, mais **elle n'est pas mon 
 - Analyse de journaux **Windows / EVTX**
 - Travaux autour de **Sysmon, Sigma, Hayabusa, Chainsaw et Velociraptor**
 - Administration, diagnostic et **hardening Windows**
-- Laboratoires réseau **Cisco / VLAN / switching / pfSense**
+- Laboratoires réseau **Cisco / VLAN / switching / routage / pfSense**
+- Administration et sécurité **Linux**, notamment dans des environnements Kali et Parrot
 - Automatisation avec **PowerShell, Python et Bash**
 - Utilisation professionnelle et critique de l'**IA appliquée à l'IT et à la cybersécurité**
 - Production de procédures, guides techniques, check-lists et supports pédagogiques
@@ -74,6 +119,10 @@ La programmation fait partie de mon bagage technique, mais **elle n'est pas mon 
 ![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?logo=powershell)
 ![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?logo=vmware)
+
+### Réseau & sécurité
+
+`Cisco` • `Packet Tracer` • `VLAN` • `Switching` • `Routage` • `pfSense` • `Wireshark` • `Nmap`
 
 ### Cybersécurité & investigation
 
@@ -95,18 +144,19 @@ La programmation fait partie de mon bagage technique, mais **elle n'est pas mon 
 ## Ce que j'aime faire techniquement
 
 - Comprendre **pourquoi** un système fonctionne ou ne fonctionne plus
+- Comprendre **comment les machines communiquent** et où se situent les points de contrôle
 - Rechercher la cause d'un incident plutôt que corriger uniquement le symptôme
 - Lire, filtrer et corréler des **logs**
 - Reproduire un problème dans un **laboratoire**
 - Tester, documenter, corriger puis recommencer
 - Automatiser les tâches répétitives
-- Sécuriser les environnements Windows
+- Sécuriser les environnements Windows et Linux
 - Transformer une problématique technique en procédure compréhensible
 - Utiliser l'IA comme **outil d'analyse et d'assistance**, avec validation humaine et contrôle des limites
 
 ---
 
-## Projet actuellement visible
+## Projets actuellement visibles
 
 ### [ELearningPlatform](https://github.com/bricehach/ELearningPlatform)
 
@@ -114,19 +164,26 @@ Projet de formation développé en **C# / ASP.NET Core .NET 8** avec API, SQL Se
 
 Ce projet représente une étape volontaire de mon parcours : **comprendre comment une application est construite afin de mieux comprendre ensuite comment elle peut être attaquée, surveillée et sécurisée**.
 
+### [AI for IT & Cybersecurity](https://github.com/bricehach/ai-for-it-cybersecurity)
+
+Portfolio consacré à l'**IA appliquée à l'IT et à la cybersécurité** : prompting, vérification, confidentialité, RAG, gouvernance, cas d'usage IT/cyber et publications.
+
+Principe central : **l'IA assiste ; l'humain comprend, vérifie et décide**.
+
 ---
 
 ## Portfolio technique en construction
 
-Les prochains espaces de démonstration seront organisés autour de :
+La construction des prochains espaces suivra une logique volontaire : partir des fondations techniques, puis aller vers la détection et l'investigation.
 
 ```text
-windows-infrastructure-lab
-cybersecurity-soc-lab
-windows-dfir-lab
-networking-security-lab
-powershell-automation
-ai-for-it-cybersecurity
+1. windows-infrastructure-lab
+2. networking-cisco-security-lab
+3. linux-security-lab
+4. cybersecurity-soc-lab
+5. windows-dfir-lab
+6. powershell-automation
+7. ai-for-it-cybersecurity   ✓ en construction active
 ```
 
 Je préfère publier progressivement des projets **réels, documentés et compréhensibles** plutôt que multiplier les repositories vides.
@@ -172,6 +229,7 @@ Les domaines que je développe particulièrement sont :
 - l'analyse de logs ;
 - le DFIR ;
 - le réseau ;
+- Linux appliqué à la sécurité ;
 - la gouvernance et la protection des données ;
 - l'automatisation ;
 - l'IA appliquée de manière responsable aux métiers IT.
@@ -196,6 +254,6 @@ Mes travaux techniques restent liés aux questions de gouvernance et de protecti
 
 ### Fil conducteur
 
-**Infrastructure → Compréhension applicative → IFAPME Cybersécurité → SOC → DFIR → Automatisation → IA appliquée**
+**Infrastructure → Windows / Linux → Réseaux / Cisco → IFAPME Cybersécurité → SOC → DFIR → Automatisation → IA appliquée**
 
 Ce profil évoluera avec mes travaux, mes laboratoires et les projets que je souhaite rendre démontrables.
