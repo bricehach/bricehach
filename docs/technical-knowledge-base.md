@@ -53,7 +53,21 @@ Documenter
 
 # 01 — Windows & Infrastructure
 
-**Repository cible : `windows-infrastructure-lab` — à construire**
+**Repository : [windows-infrastructure-lab](https://github.com/bricehach/windows-infrastructure-lab) — publié / actif**
+
+### Déjà structuré
+
+- Installation Windows
+- Confidentialité et télémétrie
+- Winget et maintenance applicative
+- Pilotes et BIOS
+- Réparation du démarrage
+- BSOD / Bug Check
+- Journaux Windows et Event ID
+- Microsoft Defender et hardening
+- Troubleshooting
+- Roadmap de publication
+- Changelog
 
 ### Matière disponible
 
