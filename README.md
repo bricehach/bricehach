@@ -111,6 +111,21 @@ De la même manière, **Cisco et Linux ne constituent pas des finalités sépar�
 
 ---
 
+## Projet 00 — Portfolio professionnel & base de connaissances IT
+
+Mon GitHub a désormais deux fonctions complémentaires :
+
+- **Portfolio professionnel** : montrer ce que je sais réellement faire à travers des projets, laboratoires et analyses documentés.
+- **Base de connaissances IT** : rendre progressivement accessibles des guides, références, procédures, labs et retours de dépannage réutilisables par d'autres.
+
+> **Chaque contenu publié doit apprendre quelque chose, résoudre un problème, fournir une méthode ou permettre de reproduire une expérience.**
+
+La cartographie centrale couvre notamment **Windows & infrastructure, réseau/Cisco, Linux, SOC, DFIR, PowerShell/automatisation, IA/ChatGPT, sécurité applicative, troubleshooting et fiches de référence**.
+
+### [Consulter la cartographie complète de la base de connaissances IT](docs/technical-knowledge-base.md)
+
+---
+
 ## Outils et environnements
 
 ### Systèmes & infrastructure
