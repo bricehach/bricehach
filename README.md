@@ -176,6 +176,18 @@ Laboratoire consacré à **Linux comme système à administrer, observer et séc
 
 Objectif : comprendre Linux suffisamment pour pouvoir **interpréter correctement les outils cyber et les traces qu'ils produisent**.
 
+### [Cybersecurity SOC Lab](https://github.com/bricehach/cybersecurity-soc-lab)
+
+Laboratoire consacré à la chaîne **journalisation → télémétrie → détection → corrélation → triage → escalade**, avec Windows Event Logs, Sysmon, Sigma, Wazuh, Defender et contexte réseau.
+
+Objectif : **transformer des événements techniques en informations exploitables sans confondre événement, alerte et incident**.
+
+### [Windows DFIR Lab](https://github.com/bricehach/windows-dfir-lab)
+
+Laboratoire consacré à l'**investigation Windows** : EVTX, Event ID, Sysmon, Hayabusa, Chainsaw, DeepBlueCLI, Velociraptor, artefacts Windows et timelines.
+
+Objectif : **reconstruire les faits à partir de traces vérifiables, tester les hypothèses et documenter les limites de l'analyse**.
+
 ### [AI for IT & Cybersecurity](https://github.com/bricehach/ai-for-it-cybersecurity)
 
 Portfolio consacré à l'**IA appliquée à l'IT et à la cybersécurité** : prompting, vérification, confidentialité, RAG, gouvernance, cas d'usage IT/cyber et publications.
@@ -186,14 +198,14 @@ Principe central : **l'IA assiste ; l'humain comprend, vérifie et décide**.
 
 ## Portfolio technique en construction
 
-La construction des prochains espaces suit une logique volontaire : partir des fondations techniques, puis aller vers la détection et l'investigation.
+La construction des espaces suit une logique volontaire : partir des fondations techniques, puis aller vers la détection, l'investigation et l'automatisation.
 
 ```text
 1. windows-infrastructure-lab         → à construire
 2. networking-cisco-security-lab     → actif
 3. linux-security-lab                → actif
-4. cybersecurity-soc-lab             → à construire
-5. windows-dfir-lab                   → à construire
+4. cybersecurity-soc-lab             → actif
+5. windows-dfir-lab                   → actif
 6. powershell-automation              → à construire
 7. ai-for-it-cybersecurity            → actif
 ```
