@@ -164,6 +164,18 @@ Projet de formation développé en **C# / ASP.NET Core .NET 8** avec API, SQL Se
 
 Ce projet représente une étape volontaire de mon parcours : **comprendre comment une application est construite afin de mieux comprendre ensuite comment elle peut être attaquée, surveillée et sécurisée**.
 
+### [Networking, Cisco & Security Lab](https://github.com/bricehach/networking-cisco-security-lab)
+
+Laboratoire consacré aux **fondations réseau utiles à la cybersécurité** : adressage, subnetting, switching, VLAN, trunks, routage, Packet Tracer, dépannage, segmentation et analyse de trafic.
+
+Objectif : **comprendre les flux avant de chercher à les sécuriser**.
+
+### [Linux Security Lab](https://github.com/bricehach/linux-security-lab)
+
+Laboratoire consacré à **Linux comme système à administrer, observer et sécuriser** : utilisateurs, permissions, services, réseau, logs, hardening, Bash, Kali, Parrot et outils d'audit.
+
+Objectif : comprendre Linux suffisamment pour pouvoir **interpréter correctement les outils cyber et les traces qu'ils produisent**.
+
 ### [AI for IT & Cybersecurity](https://github.com/bricehach/ai-for-it-cybersecurity)
 
 Portfolio consacré à l'**IA appliquée à l'IT et à la cybersécurité** : prompting, vérification, confidentialité, RAG, gouvernance, cas d'usage IT/cyber et publications.
@@ -174,16 +186,16 @@ Principe central : **l'IA assiste ; l'humain comprend, vérifie et décide**.
 
 ## Portfolio technique en construction
 
-La construction des prochains espaces suivra une logique volontaire : partir des fondations techniques, puis aller vers la détection et l'investigation.
+La construction des prochains espaces suit une logique volontaire : partir des fondations techniques, puis aller vers la détection et l'investigation.
 
 ```text
-1. windows-infrastructure-lab
-2. networking-cisco-security-lab
-3. linux-security-lab
-4. cybersecurity-soc-lab
-5. windows-dfir-lab
-6. powershell-automation
-7. ai-for-it-cybersecurity   ✓ en construction active
+1. windows-infrastructure-lab         → à construire
+2. networking-cisco-security-lab     → actif
+3. linux-security-lab                → actif
+4. cybersecurity-soc-lab             → à construire
+5. windows-dfir-lab                   → à construire
+6. powershell-automation              → à construire
+7. ai-for-it-cybersecurity            → actif
 ```
 
 Je préfère publier progressivement des projets **réels, documentés et compréhensibles** plutôt que multiplier les repositories vides.
