@@ -6,7 +6,7 @@ Professionnel IT expérimenté, j'ai construit mon parcours autour des **systèm
 
 J'ai ensuite volontairement approfondi le développement afin de mieux comprendre comment les applications sont conçues, comment elles communiquent avec les bases de données, comment l'authentification fonctionne et où peuvent apparaître les vulnérabilités.
 
-Aujourd'hui, mon orientation est clairement centrée sur la **cybersécurité opérationnelle**, le **SOC**, le **DFIR**, le **hardening** et l'**automatisation**.
+Aujourd'hui, mon orientation est clairement centrée sur la **cybersécurité opérationnelle**, le **SOC**, le **DFIR**, le **hardening** et l'**automatisation**. Cette évolution est aujourd'hui structurée par ma formation de **Conseiller en cybersécurité à l'IFAPME de Charleroi**.
 
 > **Comprendre comment un système ou une application fonctionne est, pour moi, une étape essentielle avant de pouvoir correctement le protéger, l'analyser et le sécuriser.**
 
@@ -39,6 +39,8 @@ Développement pour comprendre les applications
       ↓
 Sécurité des systèmes et des applications
       ↓
+Formation IFAPME — Conseiller en cybersécurité
+      ↓
 Cybersécurité / SOC / Détection
       ↓
 DFIR / Analyse de logs
@@ -52,6 +54,7 @@ La programmation fait partie de mon bagage technique, mais **elle n'est pas mon 
 
 ## Ce sur quoi je travaille actuellement
 
+- Formation **Conseiller en cybersécurité — IFAPME Charleroi**
 - Construction et documentation de laboratoires **SOC / détection**
 - Analyse de journaux **Windows / EVTX**
 - Travaux autour de **Sysmon, Sigma, Hayabusa, Chainsaw et Velociraptor**
@@ -158,7 +161,11 @@ Pour moi, une solution technique doit rester **compréhensible, reproductible et
 
 ## Formation et progression
 
-Je poursuis actuellement un parcours de spécialisation en **cybersécurité**, avec un intérêt particulier pour :
+### IFAPME Charleroi — Conseiller en cybersécurité
+
+Je poursuis actuellement cette formation afin de consolider mon expérience IT par une spécialisation opérationnelle en cybersécurité.
+
+Les domaines que je développe particulièrement sont :
 
 - la sécurité des systèmes ;
 - le SOC et la détection ;
@@ -168,6 +175,8 @@ Je poursuis actuellement un parcours de spécialisation en **cybersécurité**, 
 - la gouvernance et la protection des données ;
 - l'automatisation ;
 - l'IA appliquée de manière responsable aux métiers IT.
+
+Cette formation s'inscrit dans la continuité de mon parcours : **partir de l'infrastructure et de la compréhension des systèmes pour aller vers leur protection, leur surveillance et l'investigation**.
 
 ---
 
@@ -187,6 +196,6 @@ Mes travaux techniques restent liés aux questions de gouvernance et de protecti
 
 ### Fil conducteur
 
-**Infrastructure → Compréhension applicative → Sécurité → SOC → DFIR → Automatisation → IA appliquée**
+**Infrastructure → Compréhension applicative → IFAPME Cybersécurité → SOC → DFIR → Automatisation → IA appliquée**
 
 Ce profil évoluera avec mes travaux, mes laboratoires et les projets que je souhaite rendre démontrables.
