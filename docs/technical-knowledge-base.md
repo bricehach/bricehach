@@ -141,11 +141,17 @@ Retour arrière
 
 ---
 
-# 03 — Linux Security
+# 03 — Linux : administration, sécurité et automatisation
 
 **Repository : [linux-security-lab](https://github.com/bricehach/linux-security-lab) — publié / actif**
 
-### Déjà structuré
+### Déjà publié
+
+- [Cours tmux sur Debian](https://github.com/bricehach/linux-security-lab/tree/main/fundamentals/tmux) : présentation, démarrage rapide et support Word.
+
+### Arborescence en place — contenus à enrichir
+
+Les rubriques suivantes structurent les publications à venir ; elles ne représentent pas toutes des guides complets ou des laboratoires déjà validés.
 
 - Fondamentaux Linux
 - Utilisateurs et permissions
