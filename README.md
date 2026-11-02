@@ -1,6 +1,6 @@
 # Fabrice Hacardiaux
 
-### Infrastructure Windows • Cybersécurité / SOC • DFIR • Automatisation
+### Infrastructure Windows / Linux • Cybersécurité / SOC • DFIR • Automatisation
 
 Professionnel IT expérimenté, j'ai construit mon parcours autour des **systèmes, des infrastructures, du support, de la coordination IT et de la transformation numérique**.
 
@@ -14,17 +14,17 @@ Aujourd'hui, mon orientation est clairement centrée sur la **cybersécurité op
 
 ## Mes trois axes principaux
 
-| 🖥️ Infrastructure Windows | 🛡️ Cybersécurité / SOC | 🔎 DFIR & analyse de logs |
+| 🖥️ Infrastructure Windows / Linux | 🛡️ Cybersécurité / SOC | 🔎 DFIR & analyse de logs |
 |---|---|---|
 | Windows Server | Wazuh | Windows Event Logs / EVTX |
 | Active Directory | Sysmon | Hayabusa |
 | DNS / DHCP | Sigma | Chainsaw |
 | GPO | Microsoft Defender | DeepBlueCLI |
 | PowerShell | Wireshark | Velociraptor |
-| Hardening | Nmap | Timeline & investigation |
+| Linux : administration, Bash, permissions | Nmap | Timeline & investigation |
 | Troubleshooting | Détection / supervision | Corrélation d'événements |
 
-Ces trois domaines constituent mon **positionnement principal**. Les autres compétences — réseau, Cisco, Linux, développement, automatisation et IA — sont utilisées comme des **fondations et des leviers** pour renforcer cette orientation cybersécurité.
+Ces trois domaines constituent mon **positionnement principal**. Les compétences complémentaires — réseau, Cisco, développement, automatisation et IA — sont utilisées comme des **fondations et des leviers** pour renforcer cette orientation cybersécurité.
 
 ---
 
@@ -104,7 +104,7 @@ De la même manière, **Cisco et Linux ne constituent pas des finalités sépar�
 - Travaux autour de **Sysmon, Sigma, Hayabusa, Chainsaw et Velociraptor**
 - Administration, diagnostic et **hardening Windows**
 - Laboratoires réseau **Cisco / VLAN / switching / routage / pfSense**
-- Administration et sécurité **Linux**, notamment dans des environnements Kali et Parrot
+- Administration, maintenance et sécurité **Linux** : Debian, Linux Mint, Kali et Parrot
 - Automatisation avec **PowerShell, Python et Bash**
 - Utilisation professionnelle et critique de l'**IA appliquée à l'IT et à la cybersécurité**
 - Production de procédures, guides techniques, check-lists et supports pédagogiques
@@ -189,7 +189,9 @@ Objectif : **comprendre les flux avant de chercher à les sécuriser**.
 
 Laboratoire consacré à **Linux comme système à administrer, observer et sécuriser** : utilisateurs, permissions, services, réseau, logs, hardening, Bash, Kali, Parrot et outils d'audit.
 
-Objectif : comprendre Linux suffisamment pour pouvoir **interpréter correctement les outils cyber et les traces qu'ils produisent**.
+Objectif : professionnaliser mes pratiques Linux en documentant l'administration, le diagnostic, la sécurité et l'automatisation, avec leurs vérifications et leurs limites.
+
+**Ressource publiée :** [cours tmux sur Debian](https://github.com/bricehach/linux-security-lab/tree/main/fundamentals/tmux). Les autres rubriques sont enrichies progressivement.
 
 ### [Cybersecurity SOC Lab](https://github.com/bricehach/cybersecurity-soc-lab)
 
@@ -216,7 +218,7 @@ Principe central : **l'IA assiste ; l'humain comprend, vérifie et décide**.
 La construction des espaces suit une logique volontaire : partir des fondations techniques, puis aller vers la détection, l'investigation et l'automatisation.
 
 ```text
-1. windows-infrastructure-lab         → à construire
+1. windows-infrastructure-lab         → actif
 2. networking-cisco-security-lab     → actif
 3. linux-security-lab                → actif
 4. cybersecurity-soc-lab             → actif
